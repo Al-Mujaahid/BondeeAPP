@@ -1,0 +1,71 @@
+[
+    {
+        "Interests_people_location": "#Music",
+        "background_pic": "assets/images/rectangleone.png"
+    },
+    {
+        "Interests_people_location": "Lyfestyle"
+        ,
+        "background_pic": "assets/images/rectangletwo.png"
+    },
+    {
+        "Interests_people_location": "Art"
+        ,
+        "background_pic": "assets/images/rectanglethree.png"
+    },
+    {
+        "Interests_people_location": "#Nature"
+        ,
+        "background_pic": "assets/images/rectanglefour.png"
+    },
+    {
+        "Interests_people_location": "#Drinks"
+        ,
+        "background_pic": "assets/images/rectanglefive.png"
+    },
+    {
+        "Interests_people_location": "#Sport"
+        ,
+        "background_pic": "assets/images/rectanglesix.png"
+    },
+    {
+        "Interests_people_location": "#Food"
+        ,
+        "background_pic": "assets/images/rectangleseven.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectangleeight.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectanglenine.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectangleten.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectangleeleven.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectangletwelve.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectanglethirteen.png"
+    },
+    {
+        "Interests_people_location": "Interests_people_location"
+        ,
+        "background_pic": "assets/images/rectanglefourteen.png"
+    }
+]

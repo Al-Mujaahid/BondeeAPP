@@ -1,0 +1,39 @@
+[
+    
+    {
+        "profile_pic": "assets/images/rectangle40.png",
+        "full_name": "John Thompson",
+        "bio": "Lorem ipsum dolor sitamet, consecteadipiscing elit."
+    },
+
+    {
+        "profile_pic": "assets/images/rectangle401.png",
+        "full_name": "Maria Dariye",
+        "bio": "Lorem ipsum dolor sitamet, consecteadipiscing elit."
+    },
+
+    {
+        "full_name": "Jerry Perry",
+        "profile_pic": "assets/images/rectangle402.png",
+"bio": "Lorem ipsum dolor sitamet, consecteadipiscing elit."
+    },
+
+    {
+        "profile_pic": "assets/images/rectangle40.png",
+        "full_name": "John Thompson",
+        "bio": "Lorem ipsum dolor sitamet, consecteadipiscing elit."
+    },
+
+    {
+        "profile_pic": "assets/images/rectangle401.png",
+        "full_name": "Maria Dariye",
+        "bio": "Lorem ipsum dolor sitamet, consecteadipiscing elit."
+    },
+
+    {
+        "profile_pic": "assets/images/rectangle402.png",
+        "full_name": "Jerry Perry",
+        "bio": "Lorem ipsum dolor sitamet, consecteadipiscing elit."
+    }
+
+]

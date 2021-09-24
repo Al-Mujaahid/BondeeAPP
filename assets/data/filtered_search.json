@@ -1,0 +1,58 @@
+[
+    {
+        "display_pic": "assets/images/dave.png",
+        "username": "Dave",
+        "email": "@dave 125",
+        "km_away": "4km Away",
+        "about": "i need a gym buddy, anyone intrested ?"
+    },
+    {
+        "display_pic": "assets/images/sandra.png",
+        "username": "Sandra",
+        "email": "@Sandy",
+        "km_away": "10km Away",
+        "about": "Personal gym instructor."
+    },
+    {
+        "display_pic": "assets/images/femi.png",
+        "username": "Femi",
+        "email": "@fempower",
+        "km_away": "4km Away",
+        "about": "Let’s get fit together "
+    },
+    {
+        "display_pic": "assets/images/jane.png",
+        "username": "Jane",
+        "email": "@yogajane",
+        "km_away": "13km Away",
+        "about": "Yoga is life."
+    },
+    {
+        "display_pic": "assets/images/dave.png",
+        "username": "Dave",
+        "email": "@dave 125",
+        "km_away": "4km Away",
+        "about": "i need a gym buddy,   anyone intrested ?"
+    },
+    {
+        "display_pic": "assets/images/sandra.png",
+        "username": "Sandra",
+        "email": "@Sandy",
+        "km_away": "10km Away",
+        "about": "Personal gym instructor."
+    },
+    {
+        "display_pic": "assets/images/femi.png",
+        "username": "Femi",
+        "email": "@fempower",
+        "km_away": "4km Away",
+        "about": "Let’s get fit together "
+    },
+    {
+        "display_pic": "assets/images/jane.png",
+        "username": "Jane",
+        "email": "@yogajane",
+        "km_away": "13km Away",
+        "about": "Yoga is life."
+    }
+]
